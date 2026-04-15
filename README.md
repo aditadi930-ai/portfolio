@@ -67,8 +67,8 @@
 <body>
 
   <header>
-    <h1>Halo, Saya [Nama Kamu]</h1>
-    <p>Calon Web Developer 🚀</p>
+    <h1>Halo, Saya [ROFIQ ISMAIL]</h1>
+    <p>Calon Web Developer 🚀<L/p>
   </header>
 
   <section>
@@ -94,7 +94,7 @@
   <section>
     <h2>Kontak</h2>
     <div class="card">
-      <p>Email: emailkamu@gmail.com</p>
+      <p>Email: aditadi930@gmail.com</p>
       <button onclick="hubungi()">Hubungi Saya</button>
     </div>
   </section>
